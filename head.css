@@ -1,0 +1,18 @@
+h1{
+    margin-left:40%;
+    color: #00158d;
+}
+h2{
+    margin-left:45%;
+    color: #ff0055;
+}
+p{
+    align-self: self-end;
+}
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-align: justify;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}

@@ -1,0 +1,12 @@
+h1{
+    margin-left:40%;
+    color: #ff0055;
+}
+h3{
+    margin-left:45%;
+    color: #002fff;
+}
+table, th, td {
+    border: 1px solid black;
+    margin: auto;
+  }
